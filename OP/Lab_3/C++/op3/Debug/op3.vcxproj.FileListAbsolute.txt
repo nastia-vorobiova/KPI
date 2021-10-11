@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\op3\Debug\op3.exe
+C:\Users\admin\Desktop\labs\OP\Lab_3\C++\op3\Debug\op3.exe

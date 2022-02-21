@@ -1,0 +1,6 @@
+fghj, yif jgckc ut.kgh lyfd. ufc ytds i7 
+
+Amount of removed words = 4
+Amount of removed commas = 2
+Amount of removed dots = 2
+Amount of removed spaces = 1

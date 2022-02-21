@@ -1,0 +1,8 @@
+﻿  files 1.cpp
+  files.cpp
+D:\##_User\Desktop\labs\2 семестр\ОП\lab 1\C++\files 1\files.cpp(8,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\##_User\Desktop\labs\2 семестр\ОП\lab 1\C++\files 1\files.cpp(33,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\##_User\Desktop\labs\2 семестр\ОП\lab 1\C++\files 1\files.cpp(46,11): warning C4018: <: несоответствие типов со знаком и без знака
+D:\##_User\Desktop\labs\2 семестр\ОП\lab 1\C++\files 1\files.cpp(59,11): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  files 1.vcxproj -> D:\##_User\Desktop\labs\2 семестр\ОП\lab 1\C++\files 1\Debug\files 1.exe

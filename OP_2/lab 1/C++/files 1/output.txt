@@ -1,0 +1,9 @@
+abc, def . though, fghj 
+nrt, ghbg . fvgtn, fjb. 
+ght, jhkgu oiu. gc 
+rty. rtyuifs 
+ 
+Amount of removed words = 7
+Amount of removed commas = 6
+Amount of removed dots = 5
+Amount of removed spaces = 10

@@ -1,0 +1,4 @@
+﻿  files.cpp
+C:\Users\Acer\source\repos\lab-1-34\files.cpp(8,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-1-34\files.cpp(138,21): warning C4018: '<': signed/unsigned mismatch
+  lab-1-34.vcxproj -> C:\Users\Acer\source\repos\lab-1-34\Debug\lab-1-34.exe

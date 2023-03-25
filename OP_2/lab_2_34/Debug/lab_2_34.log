@@ -1,0 +1,8 @@
+﻿  lib.cpp
+C:\Users\Acer\source\repos\lab_2_34\lib.cpp(5,9): warning C4101: 'count': unreferenced local variable
+C:\Users\Acer\source\repos\lab_2_34\lib.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab_2_34\lib.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab_2_34\lib.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab_2_34\lib.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab_2_34\lib.cpp(98,31): warning C4018: '<': signed/unsigned mismatch
+  lab_2_34.vcxproj -> C:\Users\Acer\source\repos\lab_2_34\Debug\lab_2_34.exe

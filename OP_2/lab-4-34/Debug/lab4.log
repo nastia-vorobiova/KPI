@@ -1,0 +1,6 @@
+﻿  classes.cpp
+C:\Users\Acer\source\repos\lab-4-34\classes.cpp(27,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  functions.cpp
+  lab4.cpp
+  Generating Code...
+  lab4.vcxproj -> C:\Users\Acer\source\repos\lab-4-34\Debug\lab4.exe

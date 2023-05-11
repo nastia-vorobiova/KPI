@@ -1,0 +1,24 @@
+﻿  TIntNumber.cpp
+C:\Users\Acer\source\repos\lab-5-34\classes.h(47,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(69,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(70,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\source\repos\lab-5-34\classes.h(93,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(112,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  functions.cpp
+C:\Users\Acer\source\repos\lab-5-34\classes.h(47,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(69,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(70,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\source\repos\lab-5-34\classes.h(93,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(112,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\source\repos\lab-5-34\functions.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+  lab5.cpp
+C:\Users\Acer\source\repos\lab-5-34\classes.h(47,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(69,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(70,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\source\repos\lab-5-34\classes.h(93,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\lab-5-34\classes.h(112,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  lab5.vcxproj -> C:\Users\Acer\source\repos\lab-5-34\Debug\lab5.exe

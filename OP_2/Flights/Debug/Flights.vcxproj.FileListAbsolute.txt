@@ -1,0 +1,4 @@
+C:\Users\Acer\source\repos\Flights\Debug\Flights.vcxproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Flights\Debug\Flights.MyForm.resources
+C:\Users\Acer\source\repos\Flights\Debug\Flights.vcxproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Flights\Debug\Flights.exe

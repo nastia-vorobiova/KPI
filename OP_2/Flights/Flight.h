@@ -47,9 +47,6 @@ std::vector<std::string> processFlightsData(const std::string& filePath, const s
 
 	// Open the file
 	std::ifstream file(filePath);
-	if (!file.is_open()) {
-		throw std::runtime_error("Failed to open the file");
-	}
 
 	std::string line;
 	while (std::getline(file, line)) {

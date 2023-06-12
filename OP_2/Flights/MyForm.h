@@ -182,6 +182,30 @@ namespace Flights {
 		/// </summary>
 		System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 			std::string filePath = msclr::interop::marshal_as<std::string>(textBox1->Text);
+			std::ifstream file(filePath); 
+			try
+			{
+				if (!file.is_open()) {
+					throw "Failed to open the file";
+				}
+			}
+			catch (...) {
+				MessageBox::Show("Failed to open the file!", "ERROR!");
+			}
+			file.close();
+
+			try
+			{
+				if (textBox2->Text == "") {
+					throw "Empty line!";
+				}
+				if (textBox3->Text == "") {
+					throw "Empty line!";
+				}
+			}
+			catch (...) {
+				MessageBox::Show("Fill all information!", "ERROR!");
+			}
 			std::string targetDate = msclr::interop::marshal_as<std::string>(textBox2->Text);
 			std::string targetDestination = msclr::interop::marshal_as<std::string>(textBox3->Text);
 
